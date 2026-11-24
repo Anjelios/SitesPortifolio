@@ -1,0 +1,64 @@
+COLEÇÃO V4 — 12 SITES MULTIPÁGINA
+
+COMECE AQUI
+1. Extraia todo o ZIP.
+2. Abra o index.html da pasta principal.
+3. Escolha Abrir site completo, ou use a prévia Computador/Celular.
+4. Dentro de cada site, os menus levam a arquivos HTML diferentes.
+   Voltar/Avançar do navegador funcionam normalmente.
+
+A COLEÇÃO
+12 sites; 124 páginas de sites no total, mais o índice da coleção.
+Cada site tem Início, Serviços (ou Atuação/Projetos/Cardápio), três páginas
+individuais de serviço, Sobre, Como funciona, Dúvidas, Contato e Privacidade.
+Arquitetura, fotografia, confeitaria e artesanato têm também Galeria.
+São 10 páginas por site, ou 11 nos quatro modelos com galeria.
+
+IMPORTANTE: MANTENHA A PASTA COMPLETA
+A V4 usa HTMLs separados e uma pasta assets compartilhada por site.
+Não mova apenas um HTML: imagens, fontes, estilos e scripts precisam acompanhá-lo.
+Essa organização reduz repetição e permite editar todas as páginas de uma vez.
+Os sites funcionam sem instalar plugins ou ferramentas de desenvolvimento.
+A abertura dos canais WhatsApp/Instagram precisa de conexão com a internet.
+
+O QUE FUNCIONA
+- Navegação entre páginas e indicação da página ativa no menu.
+- Menu móvel, barra de contato, links de retorno e caminho da página.
+- Busca de serviços e de perguntas; filtros nas coleções visuais.
+- Galeria ampliada com setas, fechamento e navegação por teclado.
+- Seletor interativo na página inicial de contabilidade.
+- Slideshow opcional na página inicial de fotografia.
+- Contato em duas etapas, escolha recebida da página de serviço,
+  preparação e edição de mensagem, cópia e abertura do WhatsApp configurado.
+- Animações de entrada e transições; respeito a movimento reduzido.
+
+CONFIGURAR CONTATOS PARA TODAS AS PÁGINAS
+Em cada site, edite assets/config.js:
+const CONFIG = { whatsapp: "", instagram: "" };
+WhatsApp: país 55 + DDD + número, somente dígitos.
+Instagram: endereço completo do perfil https://instagram.com/seu_perfil
+Não coloque senhas, tokens privados ou credenciais nesses arquivos.
+Também é possível testar contatos no botão Configurar contatos do rodapé.
+As preferências locais podem não ser compartilhadas entre arquivos file://
+em todos os navegadores. Para configuração permanente, use assets/config.js.
+
+PERSONALIZAR
+- Conteúdo: edite os HTMLs. Mantenha nomes de arquivos e links coerentes.
+- Serviços: atualize textos, opções do select em contato.html e SITE.services
+  e SITE.descriptions em assets/config.js de maneira consistente.
+- Visual: assets/style.css; variáveis :root controlam a paleta.
+- Imagens: assets/image-*.webp; substitua por fotos próprias autorizadas e
+  ajuste src nos HTMLs e gallery em assets/config.js quando necessário.
+- Interações: assets/app.js.
+- Fontes: arquivos WOFF2 locais; licenças na pasta licencas da coleção.
+
+LIMITES E PUBLICAÇÃO
+São modelos demonstrativos com marcas fictícias e fotografias de referência.
+As imagens não representam equipe, instalações, trabalhos ou produtos da marca.
+Não existem agenda real, pagamentos, CRM, autenticação ou banco de dados.
+Escolher data não reserva horário. Gerar mensagem não envia nem contrata.
+Para publicar um site, envie o conteúdo inteiro da pasta dele à hospedagem,
+com index.html na raiz. O índice da coleção não é necessário para o site isolado.
+Personalize informações, canais, imagens e privacidade antes de publicar.
+Os modelos têm noindex,nofollow: remova essa diretiva somente na versão real
+que quiser disponibilizar aos mecanismos de busca. Nenhum domínio foi registrado.

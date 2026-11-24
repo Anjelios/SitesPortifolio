@@ -1,0 +1,31 @@
+Fotografias de referência — Unsplash.
+Licença: https://unsplash.com/license
+Não representam portfólio ou produtos das marcas fictícias.
+Acervo utilizado na coleção (inclui referências das versões anteriores):
+
+law: https://images.unsplash.com/photo-1497366754035-f200968a6e72
+physio: https://images.unsplash.com/photo-1518611012118-696072aa579a
+psych: https://images.unsplash.com/photo-1441974231531-c6227db76b6e
+dental: https://images.unsplash.com/photo-1606811971618-4486d14f3f99
+nutrition: https://images.unsplash.com/photo-1490645935967-10de6ba17061
+arch: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c
+account: https://images.unsplash.com/photo-1497366811353-6870744d04b2
+photo: https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05
+fitness: https://images.unsplash.com/photo-1534438327276-14e5300c3a48
+food: https://images.unsplash.com/photo-1578985545062-69928b1d9587
+electric: https://images.unsplash.com/photo-1507473885765-e6ed057f782c
+craft: https://images.unsplash.com/photo-1493106641515-6b5631de4bb9
+arch2: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0
+arch3: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d
+photo2: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b
+photo3: https://images.unsplash.com/photo-1470770841072-f978cf4d019e
+food2: https://images.unsplash.com/photo-1488477181946-6428a0291777
+food3: https://images.unsplash.com/photo-1484723091739-30a097e8f929
+craft2: https://images.unsplash.com/photo-1455390582262-044cdead277a
+craft3: https://images.unsplash.com/photo-1452860606245-08befc0ff44b
+law2: https://images.unsplash.com/photo-1486406146926-c627a92ad1ab
+psych2: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace
+nutrition2: https://images.unsplash.com/photo-1512621776951-a57141f2eefd
+fitness2: https://images.unsplash.com/photo-1517836357463-d25dfeac3438
+dental2: https://images.unsplash.com/photo-1629909613654-28e377c37b09
+craft4: https://images.unsplash.com/photo-1610701596007-11502861dcfa

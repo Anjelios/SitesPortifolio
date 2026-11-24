@@ -1,0 +1,25 @@
+VERIFICAÇÃO DA V4
+
+Estrutura:
+- 125 documentos HTML: 124 páginas dos sites + 1 índice da coleção.
+- 4.160 referências locais verificadas, sem destinos ausentes.
+- IDs sem duplicação, um H1 por página, caminhos de fontes e imagens válidos.
+- Opções de contato comparadas ao catálogo de cada site.
+- Sintaxe JavaScript verificada.
+
+Navegador Chrome, prévia local:
+- Contato dos 12 sites: opção recebida da URL, texto correto na mensagem e
+  WhatsApp desativado enquanto não há número configurado.
+- Início móvel e contato móvel/desktop dos 12 sites no índice de prévias.
+  Molduras de 390 e 1280 px; área útil observada de 375 e 1265 px devido à
+  barra de rolagem. Sem transbordamento horizontal nessas telas após os ajustes.
+- Fluxo representativo de menu móvel, serviços, detalhes e contato.
+- Busca com resultado vazio, filtro de confeitaria e abertura do serviço.
+- Busca de dúvidas, seletor contábil e ampliação de imagem.
+- Revisão visual de página interna e formulário de contato.
+
+Limites: não foram testadas todas as combinações de páginas e tamanhos em
+aparelhos físicos. Não houve teste em Safari/Firefox nem auditoria completa de
+acessibilidade. Os testes da V3 não substituem uma auditoria da V4.
+Nenhuma mensagem foi enviada e não há servidor, agenda ou pagamentos integrados.
+Repita os testes após personalizar, integrar serviços ou publicar.
